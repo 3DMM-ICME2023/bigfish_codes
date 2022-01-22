@@ -1,7 +1,7 @@
 # bigfish_codes
 
 The training script is in the root path, whose name is run_bc_chair/bucket/door/drawer.sh. 
-Due to files storage limits, we will put the trained models in the Google Drive. 
+Due to files storage limits, we put the trained models in the Google Drive(https://drive.google.com/file/d/1G9SGPXGF_KA3nISqVqG9ZOraobX9vWlj/view?usp=sharing). 
 The evaluation script is the user_solution.py in the root path.
 
 To make this repository clear, the differences with the official codebase are introduced. 
